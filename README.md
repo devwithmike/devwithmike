@@ -1,10 +1,17 @@
-### Hi there, I'm Mike👋
+## Hi there, I'm Mike👋
 
 ### About me:
 
 - 🎓 Software Engineering Student at [WeThinkCode_](https://www.wethinkcode.co.za/)
 - 💻 Freelance Website Developer
 - 🤖 Wannabe Robot Builder
+
+### Connect with me:
+
+[<img align="left" alt="mikefmeyer.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://mikefmeyer.me/)
+[<img align="left" alt="Mike Meyer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mikefmeyer/)
+
+<br/>
 
 ### Languages and Tools:
 
