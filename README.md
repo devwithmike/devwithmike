@@ -2,7 +2,7 @@
 
 ### About me:
 
-- <img align="left" alt="WeThinkCode_" width="26px" src="https://images.squarespace-cdn.com/content/5de86a02319db87bbb0a1449/1575940079269-11C8RJ3FNW1M1IRWG7GF/wethinkcode-logo-blue.png?content-type=image%2Fpng" /> Software Engineering Student at [WeThinkCode_](https://www.wethinkcode.co.za/)
+- 🎓 Software Engineering Student at [WeThinkCode_](https://www.wethinkcode.co.za/)
 - 💻 Freelance Website Developer
 - 🤖 Wannabe Robot Builder
 
