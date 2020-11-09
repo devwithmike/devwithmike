@@ -5,6 +5,7 @@
 - 🎓 Software Engineering Student at [WeThinkCode_](https://www.wethinkcode.co.za/)
 - 💻 Freelance Website Developer
 - 🤖 Wannabe Robot Builder
+- 🕹️ Automation Enthusiast
 
 ### Connect with me:
 
