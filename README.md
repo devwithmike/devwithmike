@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🎓 Software Engineering Student at [WeThinkCode_](https://www.wethinkcode.co.za/)
+- 🎓 Software Engineer
 - 💻 Freelance Website Developer
 - 🤖 Ambitious Robot Builder
 - 🕹️ Automation Enthusiast
