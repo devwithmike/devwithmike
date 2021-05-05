@@ -3,7 +3,6 @@
 ### About me:
 
 - 🎓 Software Engineer
-- 💻 Freelance Website Developer
 - 🤖 Ambitious Robot Builder
 - 🕹️ Automation Enthusiast
 
