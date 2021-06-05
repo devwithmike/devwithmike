@@ -46,4 +46,5 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img alt="ElasticSearch" src="https://img.shields.io/badge/elasticsearch-0077cc?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
