@@ -9,7 +9,9 @@
 
 ### Latest Dev.to posts
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Build a Go REST API with Fiber and MongoDB](https://dev.to/mikefmeyer/build-a-go-rest-api-with-fiber-and-mongodb-44og)
+- [Build a Node.js/Express REST API with MongoDB and Swagger](https://dev.to/mikefmeyer/build-a-node-js-express-rest-api-with-mongodb-and-swagger-3de9)
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Connect with me:
