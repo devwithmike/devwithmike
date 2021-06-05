@@ -6,6 +6,12 @@
 - 🤖 Ambitious Robot Builder
 - 🕹️ Automation Enthusiast
 
+
+### Latest Dev.to posts
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+
+
 ### Connect with me:
 
 [<img align="left" alt="mikefmeyer.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://mikefmeyer.me/)
