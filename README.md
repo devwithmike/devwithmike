@@ -3,7 +3,6 @@
 ### About me:
 
 - 🎓 Junior Software Engineer at [Cape AI](https://cape-ai.com/)
-- 🤖 Ambitious Robot Builder
 - 🕹️ Automation Enthusiast
 
 
