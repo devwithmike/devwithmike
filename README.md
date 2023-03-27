@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 🎓 Junior Software Engineer at [Cape AI](https://cape-ai.com/)
+- 🎓 Software Engineer at Distell
 - 🕹️ Automation Enthusiast
 
 
