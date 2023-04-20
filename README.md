@@ -1,2 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mike</h1>
-<h3 align="center">A passionate Software Engineer and Automation Enthusiast</h3>
+<h2 align="center">Hi 👋, I'm Mike</h2>
+
+<br>
+<p align="center">
+Software Engineer by ☀
+</p>
+ <p align="center"><strong>&</strong></p>
+<p align="center">
+Automation Enthusiast by 🌙
+</p>
