@@ -1,1 +1,1 @@
-![Header](./gh-header.png)
+![Header](./images/gh-header-banner.png)
